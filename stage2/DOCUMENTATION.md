@@ -61,7 +61,7 @@ The API provides the following endpoints for managing persons:
   ```
 
 #### Update Person
-- **URL:** /api/user_id/:id
+- **URL:** /api/:id
 - **Method:** PUT
 - **Request Format:**
 ```
