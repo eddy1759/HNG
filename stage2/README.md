@@ -92,7 +92,7 @@ The API will be available at `http://localhost:<PORT>`
   ```
 
 #### Update Person
-- **URL:** /api/user_id/:id
+- **URL:** /api/:id
 
 - **Method:** PUT
 - **Request Body:**
